@@ -1,5 +1,5 @@
 ### EX NO: 04
-### DATE: 29-04-2022
+### DATE: 11-04-2022
 # <p align="center"> BACK PROPAGATION IN A SINGLE NEURON</p>
 
 ## AIM:  
