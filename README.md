@@ -39,15 +39,13 @@ NumPy is a library for the Python programming language, adding support for large
 6.	stop the program.  
   
 ### Program:  
-
+```
 /* Program to implement back-Propagation in a single neuron
-
 Developed by: U. VIVEK KRISHNA
-
 Register Number: 212219040180
-
 */
-
+```
+```
 import numpy as np
 
 i=1.5
@@ -85,7 +83,7 @@ print(a)
 print(" ")
 
 print(w)
-  
+```
   
 ## Output:  
 
